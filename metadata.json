@@ -1,0 +1,5 @@
+{
+  "name": "Devolutore",
+  "description": "Carica o scatta una foto per trasformare le teste delle persone in scimmie.",
+  "requestFramePermissions": ["camera"]
+}
